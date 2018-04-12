@@ -3,3 +3,7 @@
 i3-gaps
 
 Calcurse
+
+urxvt
+
+Ranger
