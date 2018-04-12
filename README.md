@@ -7,3 +7,5 @@ Calcurse
 urxvt
 
 Ranger
+
+Powerline
